@@ -1,0 +1,17 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "modules": "commonjs",
+        "targets": {
+          "browsers": [
+            "> 0.6% in CN"
+          ]
+        }
+      }
+    ],
+    "react",
+    "react-native"
+  ]
+}
